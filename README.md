@@ -1,5 +1,5 @@
 # Python-Multiplicação 
 
-> Soma de Multiplicação (x x y)
+> Soma de Multiplicação (x * y)
 
 # necessário: pip install os
